@@ -1,3 +1,4 @@
+
 # 🤖 Automação da Compra de VR/VA com IA - Modelo Gemma3
 
 Esta aplicação automatiza completamente o processo mensal de compra de VR (Vale Refeição) e VA (Vale Alimentação), utilizando o modelo **Gemma3** do Ollama para análise inteligente e otimização dos processos.
@@ -320,3 +321,5 @@ Para suporte ou dúvidas:
 **Desenvolvido com ❤️ usando Streamlit e Ollama Gemma3 para automação inteligente de processos de RH**
 
 **Status: ✅ PRODUÇÃO - Funcionando perfeitamente!** 
+
+
