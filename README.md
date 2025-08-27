@@ -316,10 +316,6 @@ Para suporte ou dúvidas:
 - Validações adicionais
 - Testes automatizados
 
----
 
-**Desenvolvido com ❤️ usando Streamlit e Ollama Gemma3 para automação inteligente de processos de RH**
-
-**Status: ✅ PRODUÇÃO - Funcionando perfeitamente!** 
 
 
